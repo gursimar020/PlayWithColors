@@ -1,0 +1,28 @@
+@media (min-width: 768px) {
+  span{
+      text-transform: uppercase;
+      font-family: arial;
+      position: absolute;
+      font-size:10px;
+      font-weight:200;
+      width: 10px;
+      height:10px;
+      display: inline-block;
+      border-radius:60%;
+  }
+}
+body{
+    overflow: hidden;
+    margin:0;
+}
+span{
+    text-transform: uppercase;
+    font-family: arial;
+    position: absolute;
+    font-size:24px;
+    font-weight: 500;
+    width: 30px;
+    height:30px;
+    display: inline-block;
+    border-radius:60%;
+}
